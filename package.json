@@ -1,0 +1,29 @@
+{
+  "name": "batch-download-cli",
+  "version": "0.0.0",
+  "description": "A CLI tool that allows you to download files individually, sequentially, or in parallel.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomchinery/batch-download-cli.git"
+  },
+  "keywords": [
+    "batch",
+    "download",
+    "cli",
+    "batchdownload",
+    "downloads",
+    "multiple",
+    "sequential",
+    "parallel"
+  ],
+  "author": "Tom Chinery <tom@tomchinery.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/tomchinery/batch-download-cli/issues"
+  },
+  "homepage": "https://github.com/tomchinery/batch-download-cli#readme"
+}
